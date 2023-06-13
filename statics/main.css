@@ -1,0 +1,19 @@
+/* main.css */
+
+
+/* Importación de la fuente Montserrat */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+/* Estilos generales */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #f8f9fa;
+}
+
+
+/* Agrega tus estilos personalizados aquí */
